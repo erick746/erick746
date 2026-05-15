@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-- 💻 **Ingeniero en sistemas en Microsoft** (¡Esa es la meta!)
+- 💻 **Estudiante de la carrera Ingeniería en Sistemas Computacionales
 - 📝 Generador de contenido
-- 🤓 Geek empedernido
 - 🏎️ Fan de los autos, carreras y simuladores
-- 👨‍👩‍👦 ¡El papá más feliz del mundo!
 
-### Vias de contacto
+### Vías de contacto
 
 ![Website](https://img.shields.io/badge/erick746.com-up-green?style=for-the-badge)
 
@@ -14,3 +12,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/erick746/erick746)
+
+![Texto alternativo](   )
