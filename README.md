@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**erick746/erick746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Ingeniero de Software en Microsoft** (¡Esa es la meta!)
+- 📝 Generador de contenido
+- 🤓 Geek empedernido
+- 🏎️ Fan de los autos, carreras y simuladores
+- 👨‍👩‍👦 ¡El papá más feliz del mundo!
 
-Here are some ideas to get you started:
+### Vias de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Website](https://img.shields.io/badge/erick746.com-up-green?style=for-the-badge)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/erick746/erick746)
