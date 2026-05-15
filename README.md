@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 **Ingeniero de Software en Microsoft** (¡Esa es la meta!)
+- 💻 **Ingeniero de en sistemas en Microsoft** (¡Esa es la meta!)
 - 📝 Generador de contenido
 - 🤓 Geek empedernido
 - 🏎️ Fan de los autos, carreras y simuladores
