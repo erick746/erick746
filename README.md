@@ -13,4 +13,4 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/erick746/erick746)
 
-![Texto alternativo](   )
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=erick746&show_icons=true&theme=radical)
