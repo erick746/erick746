@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 **Estudiante de la carrera Ingeniería en Sistemas Computacionales
+- 💻 **Estudiante de la carrera Ingeniería en Sistemas Computacionales**
 - 📝 Generador de contenido
 - 🏎️ Fan de los autos, carreras y simuladores
 
@@ -13,4 +13,4 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/erick746/erick746)
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=erick746&show_icons=true&theme=radical)
+![Mis Estadísticas de GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api?username=erick746&show_icons=true&theme=radical)
